@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77789807247",
+    "firebase_url": "https://chat-a7f42.firebaseio.com",
+    "project_id": "chat-a7f42",
+    "storage_bucket": "chat-a7f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77789807247:android:ada804a928a2ae2a0fa6fa",
+        "android_client_info": {
+          "package_name": "com.example.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77789807247-v4p3m3hl8k0e5hp3tp2fd7kodqv69ovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MEA83asJGEeuTuovzFieykMsuq5W-6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77789807247-v4p3m3hl8k0e5hp3tp2fd7kodqv69ovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
